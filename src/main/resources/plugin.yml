@@ -1,0 +1,6 @@
+name: Deityboat.scuffed
+version: '${project.version}'
+main: deityboat.scuffedplugin.deityboat.scuffed.Deityboat.scuffed
+api-version: 1.19
+authors: [ DeityBoat, Bib ]
+description: for fun :3.
