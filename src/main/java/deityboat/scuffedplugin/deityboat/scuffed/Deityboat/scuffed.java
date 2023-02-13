@@ -3,7 +3,7 @@ package deityboat.scuffedplugin.deityboat.scuffed.Deityboat;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class scuffed extends JavaPlugin {
-    // hhello this is a comment
+    // hhello this is a comment i DUCKW SUP
     @Override
     public void onEnable() {
 
